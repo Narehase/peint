@@ -1,3 +1,5 @@
+#0.0.1
+
 from math import *
 
 
@@ -211,6 +213,23 @@ class cals:
                     break
 
             print(op - op1)
+
+#===================================================================
+#
+#
+# Custom Point Cloud => pointer_list
+#
+#
+# A module that computes a custom point cloud and displays it on an image.
+#
+#
+# When using RPLidar => map_making << Peint.pointer_list
+#
+#
+# Unlike mapmaking, this is an effective module for handling cloud pointer sets.
+#
+#
+#===================================================================
 
 
 
